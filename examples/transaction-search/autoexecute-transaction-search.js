@@ -48,7 +48,7 @@ log.info("Executing ", courseModule);
       envFilePassword: SENV_PASSWORD,
     });
 
-    log.info("Obtaining the Access Token to Interact with Overledger");
+    log.info("Obtaining the access token to Interact with Overledger");
     const refreshTokensResponse =
       await overledger.getTokensUsingClientIdAndSecret(
         process.env.USER_NAME,
@@ -58,7 +58,7 @@ log.info("Executing ", courseModule);
       );
 
     log.info(
-      "Creating the Overledger Request Object with the Correct Location",
+      "Creating the Overledger request object with the correct location",
     );
     const overledgerRequestMetaData = {
       location: {
@@ -70,7 +70,7 @@ log.info("Executing ", courseModule);
       refreshTokensResponse.accessToken.toString(),
     );
 
-    log.info("Locating the Latest Payment Transaction on the Blockchain");
+    log.info("Locating the latest payment transaction on the blockchain");
     let locatedPaymentTransaction = false;
     let numberOfTransactionsInBlock;
     let transactionsInBlockCounter;
