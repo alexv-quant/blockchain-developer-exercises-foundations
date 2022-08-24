@@ -35,7 +35,7 @@ if (!SENV_PASSWORD) {
 }
 
 //if password provided continue
-log.info("Executing ", courseModule);
+log.info("Executing", courseModule);
 (async () => {
   try {
     log.info("Initializing the SDK");
@@ -50,7 +50,7 @@ log.info("Executing ", courseModule);
       envFilePassword: SENV_PASSWORD,
     });
 
-    log.info("Obtaining the Access Token to Interact with Overledger");
+    log.info("Obtaining the Access Token to interact with Overledger");
     const refreshTokensResponse =
       await overledger.getTokensUsingClientIdAndSecret(
         process.env.USER_NAME,
@@ -59,7 +59,7 @@ log.info("Executing ", courseModule);
         process.env.CLIENT_SECRET,
       );
 
-    log.info("Creating Overledger Request Object with the Correct Location");
+    log.info("Creating Overledger Request Object with the correct location");
     const overledgerRequestMetaData = {
       location: {
         technology: "Bitcoin",
@@ -70,13 +70,13 @@ log.info("Executing ", courseModule);
       refreshTokensResponse.accessToken.toString(),
     );
 
-    log.info("Sending a Request to Overledger for the Latest Block");
+    log.info("Sending a Request to Overledger for the latest block");
     const overledgerResponse = await overledgerInstance.post(
       "/autoexecution/search/block/latest",
       overledgerRequestMetaData,
     );
 
-    log.info(`Printing Out Overledger's Response:\n\n`);
+    log.info(`Printing Out Overledger's response:\n\n`);
 
     // The preparation object section of the response includes
     // the request id and any QNT fee that must be paid for use of this endpoint 
