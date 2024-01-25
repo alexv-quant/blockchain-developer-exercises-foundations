@@ -1,1 +1,1 @@
-Hello. This is the new readme. The previous readme has been obliterated by an accident involving encoding.
+Hello. This is the new readme. The previous readme has been obliterated by an accident involving encoding. Here is the old stuff fixed:Hello. falafel falafel falafel falafel readme. falafel falafel falafel falafel falafel falafel falafel falafel falafel falafel encoding.
