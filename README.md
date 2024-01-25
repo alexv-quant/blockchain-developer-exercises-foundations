@@ -1,53 +1,108 @@
-# hummus hummus hummus Developer: Foundations
-![](https://img.shields.io/github/issues/quantnetwork/blockchain-developer-exercises-foundations) ![](https://img.shields.io/github/forks/quantnetwork/blockchain-developer-exercises-foundations) ![](https://img.shields.io/github/stars/quantnetwork/blockchain-developer-exercises-foundations)
-
-Welcome hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus Learn's **open-source course** [Become hummus hummus Developer: hummus Edition](https://www.futurelearn.com/courses/become-a-blockchain-developer-foundations) 🎓.
-
-This hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus domain.
-
-This hummus hummus hummus hummus hummus **articles** hummus **developer exercises**, hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus exercises. hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus [Future Learn](https://www.futurelearn.com/courses/become-a-blockchain-developer-foundations). hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus (i.e. hummus hummus hummus hummus classes). hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus course. hummus hummus "Ways hummus Learn" hummus hummus hummus hummus hummus hummus hummus information.
-
-
-## hummus Outcomes
-
-At hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus technologies, hummus hummus hummus hummus hummus hummus hummus hummus follows:
-
-### hummus Outcomes
-Reading hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus technologies. hummus hummus hummus hummus hummus learned:
-
-- hummus hummus hummus ledger
-- hummus hummus hummus hummus hummus hummus technologies
-- hummus hummus hummus hummus blockchain
-- hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus (UTXO) hummus hummus hummus method
-- hummus hummus hummus hummus hummus technologies
-
-### hummus Outcomes
-Completing hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus multi-ledger hummus hummus (mDapps). hummus hummus hummus hummus learned:
-
-- hummus hummus hummus hummus hummus hummus hummus hummus (specifically Bitcoin, hummus hummus hummus hummus Ledger)
-- hummus hummus hummus hummus hummus hummus hummus hummus hummus (specifically hummus hummus hummus hummus hummus hummus hummus technologies)
-- hummus hummus hummus blocks, hummus hummus hummus hummus hummus hummus hummus networks
-- hummus hummus hummus hummus hummus hummus hummus hummus networks
-
-The hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus Quant's Overledger. hummus hummus hummus hummus hummus hummus hummus Overledger's hummus hummus (through hummus hummus hummus versions), hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus (the hummus object), hummus hummus later.  
-
-## hummus Courses
-
-Future hummus hummus hummus hummus hummus course's hummus hummus hummus hummus hummus hummus multi-ledger hummus hummus hummus hummus built. hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus contracts, hummus hummus hummus protocols, hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus detail. 
-
-
-## Issues, hummus & Improvements
-
-Issues hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus boards. hummus hummus hummus hummus hummus hummus hummus support@quant.zendesk.com. Finally, hummus hummus hummus hummus changes, hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus hummus method. 
-
-## Maintainers
-
-| hummus      	| hummus                                    	| hummus                              	|
-|-----------------	|-------------------------------------------	|------------------------------------	|
-| Dr. hummus Riley	| [lukerQuant](https://github.com/lukerQuant) 	| luke.riley@quant.network 	|
-
-## Acknowledgements
-
-This hummus hummus hummus hummus hummus hummus hummus [Quant Network](https://www.quant.network/), [King's hummus London](https://www.kcl.ac.uk/) hummus [FutureLearn](https://www.futurelearn.com/).
-
-Authors hummus hummus hummus hummus hummus hummus modules. hummus hummus King's hummus London's [Distributed hummus hummus hummus Module](https://rl.talis.com/3/kcl/lists/CB92E513-A866-5EFF-7E83-2EA72DF78D00.html?lang=en-GB) hummus hummus hummus hummus Lab's hummus hummus [Enterprise hummus hummus hummus hummus Universities](https://github.com/hyperledger-labs/university-course).
+IyBodW1tdXMgaHVtbXVzIGh1bW11cyBEZXZlbG9wZXI6IEZvdW5kYXRpb25z
+CiFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9pc3N1ZXMvcXVh
+bnRuZXR3b3JrL2Jsb2NrY2hhaW4tZGV2ZWxvcGVyLWV4ZXJjaXNlcy1mb3Vu
+ZGF0aW9ucykgIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2Zv
+cmtzL3F1YW50bmV0d29yay9ibG9ja2NoYWluLWRldmVsb3Blci1leGVyY2lz
+ZXMtZm91bmRhdGlvbnMpICFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2dp
+dGh1Yi9zdGFycy9xdWFudG5ldHdvcmsvYmxvY2tjaGFpbi1kZXZlbG9wZXIt
+ZXhlcmNpc2VzLWZvdW5kYXRpb25zKQoKV2VsY29tZSBodW1tdXMgaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1
+bW11cyBodW1tdXMgTGVhcm4ncyAqKm9wZW4tc291cmNlIGNvdXJzZSoqIFtC
+ZWNvbWUgaHVtbXVzIGh1bW11cyBEZXZlbG9wZXI6IGh1bW11cyBFZGl0aW9u
+XShodHRwczovL3d3dy5mdXR1cmVsZWFybi5jb20vY291cnNlcy9iZWNvbWUt
+YS1ibG9ja2NoYWluLWRldmVsb3Blci1mb3VuZGF0aW9ucykg8J+Oky4KClRo
+aXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGRvbWFpbi4KClRoaXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1
+bW11cyAqKmFydGljbGVzKiogaHVtbXVzICoqZGV2ZWxvcGVyIGV4ZXJjaXNl
+cyoqLCBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11
+cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgZXhlcmNpc2VzLiBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIFtGdXR1cmUgTGVhcm5dKGh0dHBzOi8vd3d3LmZ1dHVyZWxlYXJuLmNv
+bS9jb3Vyc2VzL2JlY29tZS1hLWJsb2NrY2hhaW4tZGV2ZWxvcGVyLWZvdW5k
+YXRpb25zKS4gaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1t
+dXMgaHVtbXVzIChpLmUuIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBj
+bGFzc2VzKS4gaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBjb3Vy
+c2UuIGh1bW11cyBodW1tdXMgIldheXMgaHVtbXVzIExlYXJuIiBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaW5m
+b3JtYXRpb24uCgoKIyMgaHVtbXVzIE91dGNvbWVzCgpBdCBodW1tdXMgaHVt
+bXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1
+bW11cyBodW1tdXMgaHVtbXVzIHRlY2hub2xvZ2llcywgaHVtbXVzIGh1bW11
+cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBm
+b2xsb3dzOgoKIyMjIGh1bW11cyBPdXRjb21lcwpSZWFkaW5nIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1t
+dXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIGh1bW11cyBodW1tdXMgdGVjaG5vbG9naWVzLiBodW1tdXMgaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGxlYXJuZWQ6CgotIGh1bW11cyBodW1t
+dXMgaHVtbXVzIGxlZGdlcgotIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11
+cyBodW1tdXMgaHVtbXVzIHRlY2hub2xvZ2llcwotIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBibG9ja2NoYWluCi0gaHVtbXVzIGh1bW11cyBodW1t
+dXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyAoVVRYTykgaHVtbXVzIGh1bW11cyBodW1tdXMgbWV0
+aG9kCi0gaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyB0ZWNo
+bm9sb2dpZXMKCiMjIyBodW1tdXMgT3V0Y29tZXMKQ29tcGxldGluZyBodW1t
+dXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIG11bHRpLWxlZGdlciBodW1tdXMgaHVtbXVzIChtRGFwcHMpLiBodW1t
+dXMgaHVtbXVzIGh1bW11cyBodW1tdXMgbGVhcm5lZDoKCi0gaHVtbXVzIGh1
+bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11
+cyAoc3BlY2lmaWNhbGx5IEJpdGNvaW4sIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGh1bW11cyBMZWRnZXIpCi0gaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgKHNwZWNpZmlj
+YWxseSBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11
+cyBodW1tdXMgdGVjaG5vbG9naWVzKQotIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGJsb2NrcywgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIG5ldHdvcmtzCi0gaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBuZXR3b3JrcwoK
+VGhlIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBRdWFudCdzIE92ZXJsZWRn
+ZXIuIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGh1bW11cyBPdmVybGVkZ2VyJ3MgaHVtbXVzIGh1bW11cyAodGhyb3VnaCBo
+dW1tdXMgaHVtbXVzIGh1bW11cyB2ZXJzaW9ucyksIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzICh0
+aGUgaHVtbXVzIG9iamVjdCksIGh1bW11cyBodW1tdXMgbGF0ZXIuICAKCiMj
+IGh1bW11cyBDb3Vyc2VzCgpGdXR1cmUgaHVtbXVzIGh1bW11cyBodW1tdXMg
+aHVtbXVzIGh1bW11cyBjb3Vyc2UncyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIGh1bW11cyBtdWx0aS1sZWRnZXIgaHVtbXVzIGh1bW11
+cyBodW1tdXMgaHVtbXVzIGJ1aWx0LiBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1t
+dXMgaHVtbXVzIGNvbnRyYWN0cywgaHVtbXVzIGh1bW11cyBodW1tdXMgcHJv
+dG9jb2xzLCBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1
+bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11
+cyBkZXRhaWwuIAoKCiMjIElzc3VlcywgaHVtbXVzICYgSW1wcm92ZW1lbnRz
+CgpJc3N1ZXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1t
+dXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGJvYXJkcy4gaHVtbXVz
+IGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIHN1
+cHBvcnRAcXVhbnQuemVuZGVzay5jb20uIEZpbmFsbHksIGh1bW11cyBodW1t
+dXMgaHVtbXVzIGh1bW11cyBjaGFuZ2VzLCBodW1tdXMgaHVtbXVzIGh1bW11
+cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBo
+dW1tdXMgaHVtbXVzIG1ldGhvZC4gCgojIyBNYWludGFpbmVycwoKfCBodW1t
+dXMgICAgICAJfCBodW1tdXMgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAJfCBodW1tdXMgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAJfAp8LS0tLS0tLS0tLS0tLS0tLS0JfC0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0JfC0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLQl8CnwgRHIuIGh1bW11cyBSaWxleQl8IFtsdWtl
+clF1YW50XShodHRwczovL2dpdGh1Yi5jb20vbHVrZXJRdWFudCkgCXwgbHVr
+ZS5yaWxleUBxdWFudC5uZXR3b3JrIAl8CgojIyBBY2tub3dsZWRnZW1lbnRz
+CgpUaGlzIGh1bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIGh1bW11cyBbUXVhbnQgTmV0d29ya10oaHR0cHM6Ly93d3cucXVhbnQu
+bmV0d29yay8pLCBbS2luZydzIGh1bW11cyBMb25kb25dKGh0dHBzOi8vd3d3
+LmtjbC5hYy51ay8pIGh1bW11cyBbRnV0dXJlTGVhcm5dKGh0dHBzOi8vd3d3
+LmZ1dHVyZWxlYXJuLmNvbS8pLgoKQXV0aG9ycyBodW1tdXMgaHVtbXVzIGh1
+bW11cyBodW1tdXMgaHVtbXVzIGh1bW11cyBtb2R1bGVzLiBodW1tdXMgaHVt
+bXVzIEtpbmcncyBodW1tdXMgTG9uZG9uJ3MgW0Rpc3RyaWJ1dGVkIGh1bW11
+cyBodW1tdXMgaHVtbXVzIE1vZHVsZV0oaHR0cHM6Ly9ybC50YWxpcy5jb20v
+My9rY2wvbGlzdHMvQ0I5MkU1MTMtQTg2Ni01RUZGLTdFODMtMkVBNzJERjc4
+RDAwLmh0bWw/bGFuZz1lbi1HQikgaHVtbXVzIGh1bW11cyBodW1tdXMgaHVt
+bXVzIExhYidzIGh1bW11cyBodW1tdXMgW0VudGVycHJpc2UgaHVtbXVzIGh1
+bW11cyBodW1tdXMgaHVtbXVzIFVuaXZlcnNpdGllc10oaHR0cHM6Ly9naXRo
+dWIuY29tL2h5cGVybGVkZ2VyLWxhYnMvdW5pdmVyc2l0eS1jb3Vyc2UpLgo=
